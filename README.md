@@ -1,5 +1,5 @@
 # MacOS 命令 及 Shell
-> ### 所有权利归原作者所有,这里只是搬运工 Thanks
+> ### 所有权利归原作者所有,这里只是搬运工 Thanks ^_^
 <br>
 
 MacOS基础命令文档：[MacOS基础命令.xlsx](https://github.com/zimingwz/macos_command/raw/master/01_command_base/MacOS%E5%9F%BA%E7%A1%80%E5%91%BD%E4%BB%A4.xlsx)
