@@ -27,9 +27,19 @@ grep='grep --color=auto'   #这样在执行grep字符串搜索命令时，匹配
 ![](./vim.gif)
 
 
+## Mac中vim永久显示行号
+1.
+```bash
+cp /usr/share/vim/vimrc ~/.vimrc
+```
+2. vim  ~/.vimrc
 
+  再进入insert模式，在最后加二行
 
-
+```bash
+  syntax on
+  set nu!
+  ```
 
 
 
