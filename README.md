@@ -14,7 +14,7 @@ MacOS基础命令文档：[MacOS基础命令.xlsx](https://github.com/zimingwz/m
 	* PS1自动生成工具的使用
 	* 在用户配置文件中添加自定义的PS1变量的shell脚本
 	* 终端颜色修改方法的视频链接、PS1变量的介绍
-* [04 用颜色区分不同文件类型(alias和vi的使用)](https://github.com/zimingwz/macos_command/tree/master/04_alias&vi)
+* [04 用颜色区分不同文件类型(alias和vi的使用)](/04_alias&vi)
 	* alias别名的使用，及alias和文件颜色的关系
 	* vi编辑器的基本使用，以及对用户配置文件~/.bash_profile的编辑
 * [05 新建文件夹和文件方法(mkdir和touch的使用)](https://github.com/zimingwz/macos_command/tree/master/05_mkdir&touch)
