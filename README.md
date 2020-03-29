@@ -20,7 +20,7 @@ MacOS基础命令文档：[MacOS基础命令.xlsx](https://github.com/zimingwz/m
 	* alias别名的使用，及alias和文件颜色的关系
 	* vi编辑器的基本使用，以及对用户配置文件~/.bash_profile的编辑
 	```diff 
-	- * 增加了Mac中vim永久显示行号 
+	+ 增加了Mac中vim永久显示行号 
 
 * [05 新建文件夹和文件方法(mkdir和touch的使用)](https://github.com/zimingwz/macos_command/tree/master/05_mkdir&touch)
 	* mkdir命令新建文件夹
