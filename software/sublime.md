@@ -1,7 +1,7 @@
 # Sublime Text 3 For MacOS crack
-###1，安装Sublime Text 3 V3.2.1 Build 3207
-Sublime Text 3 for macos 下载,https://www.sublimetext.com/3
-###2，crack
+### 1，安装Sublime Text 3 V3.2.1 Build 3207
+https://www.sublimetext.com/3
+### 2，crack code
 ```Member J2TeaM
 Single User License
 EA7E-1011316
